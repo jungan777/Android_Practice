@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/ch10_notification" />
+            <option value="$PROJECT_DIR$/ch11_jetpack" />
+            <option value="$PROJECT_DIR$/ch7_layout" />
+            <option value="$PROJECT_DIR$/ch8_event" />
+            <option value="$PROJECT_DIR$/ch9_resource" />
+            <option value="$PROJECT_DIR$/fragment_practice" />
+            <option value="$PROJECT_DIR$/login_example" />
+            <option value="$PROJECT_DIR$/recy" />
+            <option value="$PROJECT_DIR$/recycler_view" />
+            <option value="$PROJECT_DIR$/test_layout" />
+            <option value="$PROJECT_DIR$/toolbar" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
